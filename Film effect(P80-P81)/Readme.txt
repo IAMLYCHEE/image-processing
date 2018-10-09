@@ -1,0 +1,1 @@
+just run Problem2c.exe
